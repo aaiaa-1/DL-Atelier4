@@ -27,4 +27,3 @@ Moving on to Generative Adversarial Networks (GANs), we explore the fascinating 
 - **Abstract Art Gallery Dataset for Generative Adversarial Networks:** [Abstract Art Gallery Dataset](https://www.kaggle.com/datasets/bryanb/abstract-art-gallery)
 
 We hope this repository enhances your understanding of deep learning architectures and inspires you to explore further in this exciting field!
-# DL-Atelier4
